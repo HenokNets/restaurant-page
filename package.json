@@ -1,0 +1,22 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenokNets/restaurant-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/HenokNets/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/HenokNets/restaurant-page#readme"
+}
